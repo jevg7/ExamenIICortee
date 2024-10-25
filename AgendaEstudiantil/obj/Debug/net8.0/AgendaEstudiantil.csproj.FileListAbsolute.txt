@@ -1,0 +1,14 @@
+C:\Users\Jairo\Desktop\ExamenIICorte\AgendaEstudiantil\bin\Debug\net8.0\AgendaEstudiantil.exe
+C:\Users\Jairo\Desktop\ExamenIICorte\AgendaEstudiantil\bin\Debug\net8.0\AgendaEstudiantil.deps.json
+C:\Users\Jairo\Desktop\ExamenIICorte\AgendaEstudiantil\bin\Debug\net8.0\AgendaEstudiantil.runtimeconfig.json
+C:\Users\Jairo\Desktop\ExamenIICorte\AgendaEstudiantil\bin\Debug\net8.0\AgendaEstudiantil.dll
+C:\Users\Jairo\Desktop\ExamenIICorte\AgendaEstudiantil\bin\Debug\net8.0\AgendaEstudiantil.pdb
+C:\Users\Jairo\Desktop\ExamenIICorte\AgendaEstudiantil\obj\Debug\net8.0\AgendaEstudiantil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jairo\Desktop\ExamenIICorte\AgendaEstudiantil\obj\Debug\net8.0\AgendaEstudiantil.AssemblyInfoInputs.cache
+C:\Users\Jairo\Desktop\ExamenIICorte\AgendaEstudiantil\obj\Debug\net8.0\AgendaEstudiantil.AssemblyInfo.cs
+C:\Users\Jairo\Desktop\ExamenIICorte\AgendaEstudiantil\obj\Debug\net8.0\AgendaEstudiantil.csproj.CoreCompileInputs.cache
+C:\Users\Jairo\Desktop\ExamenIICorte\AgendaEstudiantil\obj\Debug\net8.0\AgendaEstudiantil.dll
+C:\Users\Jairo\Desktop\ExamenIICorte\AgendaEstudiantil\obj\Debug\net8.0\refint\AgendaEstudiantil.dll
+C:\Users\Jairo\Desktop\ExamenIICorte\AgendaEstudiantil\obj\Debug\net8.0\AgendaEstudiantil.pdb
+C:\Users\Jairo\Desktop\ExamenIICorte\AgendaEstudiantil\obj\Debug\net8.0\AgendaEstudiantil.genruntimeconfig.cache
+C:\Users\Jairo\Desktop\ExamenIICorte\AgendaEstudiantil\obj\Debug\net8.0\ref\AgendaEstudiantil.dll
